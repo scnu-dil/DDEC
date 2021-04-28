@@ -1,8 +1,8 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-12 14:16:05
- * @LastEditTime: 2021-04-12 21:10:26
- * @LastEditors: your name
+ * @LastEditTime: 2021-04-28 22:20:21
+ * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /DDEC/README.md
 -->
@@ -24,3 +24,14 @@ npm run dev
 
 
 ```
+
+
+update in 2021.4.28
+
+完成代币合约：成功部署发币合约
+
+ContractHash: io1ms5s4xy3a5p0l70kudyyaz9lv3c7pch90xa5r0
+ActionHash: e18275a9eba26ef85cc04ecb598bfd9f5b20d44507462f42d89682871e3ad476
+ContractName: DataDrivenEducationCoin
+
+
